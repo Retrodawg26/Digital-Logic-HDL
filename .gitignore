@@ -1,0 +1,7 @@
+*.log
+*.vcd
+*.key
+*.history
+core
+INCA_libs/
+xcelium.d/
